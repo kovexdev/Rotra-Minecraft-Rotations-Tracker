@@ -16,7 +16,7 @@ The latest public release is **Rotra v1.6.1**.
 
 Download the official Windows installer from the GitHub Releases section:
 
-[**Download Rotra v1.6.1 →**](https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.1)
+[**Download Rotra v1.6.2 →**](https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.2)
 
 Official release assets include:
 
