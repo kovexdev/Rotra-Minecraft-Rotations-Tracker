@@ -12,7 +12,7 @@ Developed by **Kovex**.
 
 ## Download
 
-The latest public release is **Rotra v1.6.1**.
+The latest public release is **Rotra v1.6.2**.
 
 Download the official Windows installer from the GitHub Releases section:
 
