@@ -12,11 +12,9 @@ Developed by **Kovex**.
 
 ## Download
 
-The latest public release is **Rotra v1.6.2**.
-
 Download the official Windows installer from the GitHub Releases section:
 
-[**Download Rotra v1.6.2 →**](https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.2)
+[**Download Rotra v1.6.3 →**](https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.3)
 
 Official release assets include:
 
@@ -24,6 +22,15 @@ Official release assets include:
 - `SHA256SUMS.txt`
 
 Only download Rotra from the official Kovex GitHub repository.
+
+---
+
+## Latest Release
+
+**Rotra v1.6.3**
+
+See the full changelog and download the latest version from:
+[GitHub Releases]([YOUR_RELEASES_LINK](https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.3))
 
 ---
 
@@ -53,7 +60,6 @@ Only download Rotra from the official Kovex GitHub repository.
 - Re-filter existing results
 - Checkpoint resume
 - Run history and saved results
-- Seed Filter
 - High result limits
 - Automatic run folders
 - Modern Windows interface
