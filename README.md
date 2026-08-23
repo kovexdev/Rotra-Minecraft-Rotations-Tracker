@@ -30,7 +30,7 @@ Only download Rotra from the official Kovex GitHub repository.
 **Rotra v1.6.3**
 
 See the full changelog and download the latest version from:
-[GitHub Releases]((https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.3))
+[GitHub Releases](https://github.com/kovexdev/Rotra-Minecraft-Rotations-Tracker/releases/tag/v1.6.3)
 
 ---
 
