@@ -14,7 +14,7 @@ Developed by **Kovex**.
 
 Watch Rotra in action and see the speed comparison:
 
-[![Watch the Rotra Guide](https://img.youtube.com/vi/VL_xhWKHmEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=VL_xhWKHmEU&t=12s)
+[![Watch the Rotra Guide](https://img.youtube.com/vi/VL_xhWKHmEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=VL_xhWKHmEU)
 
 ---
 
