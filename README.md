@@ -10,6 +10,14 @@ Developed by **Kovex**.
 
 ---
 
+## How to Use
+
+Watch Rotra in action and see the speed comparison:
+
+[![Watch the Rotra Guide](https://img.youtube.com/vi/VL_xhWKHmEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=VL_xhWKHmEU&t=12s)
+
+---
+
 ## Download
 
 Download the official Windows installer from the GitHub Releases section:
